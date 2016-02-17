@@ -1,0 +1,10 @@
+{
+	ApplicationName = "Launcher";
+	ApplicationDescription = "Une application pour donner un menu aux App_Wrappers";
+	ApplicationRelease = "0.01";
+	Authors = ("Bertrand Dekoninck < bertrand.dekoninck@gmail.com>");
+	Copyright = "Copyright (c) 2015 Bertrand Dekoninck < bertrand.dekoninck@gmail.com>";
+	CopyrightDescription = "Ce programme est publié sous licence GNU GPL.";
+}
+		   
+		
